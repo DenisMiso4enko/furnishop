@@ -237,7 +237,7 @@ h1 {
     color: #FFFFFF;
 }
 
-@media (max-width: 390px) {
+@media (max-width: 767px) {
     .main-inner {
         padding: 190px 0 30px;
     }
